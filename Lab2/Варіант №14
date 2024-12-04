@@ -1,0 +1,3 @@
+№ варіанта: 14
+Види індексів: Btree, Hash
+Умови для тригера: after insert, update
